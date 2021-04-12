@@ -1,0 +1,23 @@
+C:\Users\User\source\repos\FunPro.CW1.11977\CW.DAL\bin\Debug\CW.DAL.dll
+C:\Users\User\source\repos\FunPro.CW1.11977\CW.DAL\bin\Debug\CW.DAL.pdb
+C:\Users\User\source\repos\FunPro.CW1.11977\CW.DAL\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\User\source\repos\FunPro.CW1.11977\CW.DAL\obj\Debug\CW.DAL.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FunPro.CW1.11977\CW.DAL\obj\Debug\CW.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FunPro.CW1.11977\CW.DAL\obj\Debug\CW.DAL.csproj.CopyComplete
+C:\Users\User\source\repos\FunPro.CW1.11977\CW.DAL\obj\Debug\CW.DAL.dll
+C:\Users\User\source\repos\FunPro.CW1.11977\CW.DAL\obj\Debug\CW.DAL.pdb
+C:\Users\User\source\repos\FunPro.CW1.11977\CW.DAL\bin\Debug\CW.DAL.dll.config
+C:\Users\User\Desktop\FunPro.CW1.11977\CW.DAL\bin\Debug\CW.DAL.dll.config
+C:\Users\User\Desktop\FunPro.CW1.11977\CW.DAL\bin\Debug\CW.DAL.dll
+C:\Users\User\Desktop\FunPro.CW1.11977\CW.DAL\bin\Debug\CW.DAL.pdb
+C:\Users\User\Desktop\FunPro.CW1.11977\CW.DAL\obj\Debug\CW.DAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\FunPro.CW1.11977\CW.DAL\obj\Debug\CW.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FunPro.CW1.11977\CW.DAL\obj\Debug\CW.DAL.dll
+C:\Users\User\Desktop\FunPro.CW1.11977\CW.DAL\obj\Debug\CW.DAL.pdb
+C:\Users\User\Desktop\FunPro.CW1.11977 - Copy\CW.DAL\bin\Debug\CW.DAL.dll.config
+C:\Users\User\Desktop\FunPro.CW1.11977 - Copy\CW.DAL\bin\Debug\CW.DAL.dll
+C:\Users\User\Desktop\FunPro.CW1.11977 - Copy\CW.DAL\bin\Debug\CW.DAL.pdb
+C:\Users\User\Desktop\FunPro.CW1.11977 - Copy\CW.DAL\obj\Debug\CW.DAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\FunPro.CW1.11977 - Copy\CW.DAL\obj\Debug\CW.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FunPro.CW1.11977 - Copy\CW.DAL\obj\Debug\CW.DAL.dll
+C:\Users\User\Desktop\FunPro.CW1.11977 - Copy\CW.DAL\obj\Debug\CW.DAL.pdb
